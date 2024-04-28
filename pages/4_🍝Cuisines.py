@@ -10,7 +10,7 @@ import streamlit as st
 # ==================================================================
 # Configurações da Página 
 # ==================================================================
-st.set_page_config(page_title = 'Cuisines MODULO',
+st.set_page_config(page_title = 'Cuisines',
                    page_icon = '🍝',
                   layout= 'centered')
 
